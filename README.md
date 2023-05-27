@@ -12,12 +12,12 @@ User-Friendly Interface: The calculator provides a clean and intuitive user inte
 ## Memory Functions: Store and recall numbers using memory functions, including memory addition, subtraction, and clear memory.
 
 # Examples
-## Addition: 5 + 3 = 8
-## Subtraction: 10 - 4 = 6
-## Multiplication: 2 * 6 = 12
-## Division: 16 / 4 = 4
-## Parentheses: (3 + 5) * 2 = 16
-## Decimal Precision: 1 / 3 = 0.333 (with 3 decimal places)
+- **Addition:** 5 + 3 = 8
+- **Subtraction:** 10 - 4 = 6
+- **Multiplication:** 2 * 6 = 12
+- **Division:** 16 / 4 = 4
+- **Parentheses:** (3 + 5) * 2 = 16
+- **Decimal Precision:** 1 / 3 = 0.333 (with 3 decimal places)
 
 # Acknowledgments
 - The calculator app is built using the Python programming language.
