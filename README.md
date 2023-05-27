@@ -1,15 +1,15 @@
-# calculator
+# Calculator
 
 The Python Calculator is a simple yet powerful calculator developed using the Python programming language. It provides a user-friendly interface for performing basic arithmetic calculations conveniently. This calculator application can be used on any device that has Python installed.
 
 # Features
-User-Friendly Interface: The calculator provides a clean and intuitive user interface, making it easy for users to input their calculations and view the results.
+- **User-Friendly Interface:** The calculator provides a clean and intuitive user interface, making it easy for users to input their calculations and view the results.
 
-## Basic Arithmetic Operations: Perform standard arithmetic operations such as addition, subtraction, multiplication, and division.
+- **Basic Arithmetic Operations:** Perform standard arithmetic operations such as addition, subtraction, multiplication, and division.
 
-## Parentheses Support: The calculator supports parentheses for grouping operations and prioritizing calculations.
+- **Parentheses Support:** The calculator supports parentheses for grouping operations and prioritizing calculations.
 
-## Memory Functions: Store and recall numbers using memory functions, including memory addition, subtraction, and clear memory.
+- **Memory Functions:**Store and recall numbers using memory functions, including memory addition, subtraction, and clear memory.
 
 # Examples
 - **Addition:** 5 + 3 = 8
