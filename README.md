@@ -9,7 +9,7 @@ The Python Calculator is a simple yet powerful calculator developed using the Py
 
 - **Parentheses Support:** The calculator supports parentheses for grouping operations and prioritizing calculations.
 
-- **Memory Functions:**Store and recall numbers using memory functions, including memory addition, subtraction, and clear memory.
+- **Memory Functions:** Store and recall numbers using memory functions, including memory addition, subtraction, and clear memory.
 
 # Examples
 - **Addition:** 5 + 3 = 8
