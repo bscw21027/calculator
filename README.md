@@ -25,6 +25,4 @@ The Python Calculator is a simple yet powerful calculator developed using the Py
 - The project structure and code organization are inspired by best practices for Python projects.
 
 # Contact
-If you have any questions, suggestions, or issues, please feel free to contact the project maintainer at bscw@itu.edu.pk
-
-Happy calculating!
+If you have any questions, suggestions, or issues, please feel free to contact the project maintainer at bsce21027@itu.edu.pk
